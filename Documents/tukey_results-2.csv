@@ -1,0 +1,7 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+active,inactive,-11.047,0.6739,-36.2792,14.1852,False
+active,potent,43.3772,0.0,24.4376,62.3169,True
+active,weekly_active,-4.4251,0.9677,-29.1671,20.3169,False
+inactive,potent,54.4242,0.0,31.0676,77.7808,True
+inactive,weekly_active,6.6218,0.9314,-21.6445,34.8882,False
+potent,weekly_active,-47.8024,0.0,-70.6285,-24.9762,True
