@@ -12,6 +12,9 @@ Jupyter notebook, Goggle Colab, Python (Panda, Scikit, seaborn, matplotlib), chE
 
 # Project Structure
 Data:\ This directtory contains the row data used for training the model. The data contains detailed and physicam and chemical propertie of each compound.
+
 Documents:\ This directory contains statstical results of the analysis and other reports.
+
 src:\ This directory contains goggle colan files with active codes.
+
 README:\ Contains the detailed description of the project.
