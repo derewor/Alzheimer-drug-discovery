@@ -1,4 +1,4 @@
 # Drug Discovery
 
 # Introduction
-This project was aimed at training a model that can predict weather a compound has activity towards a target protein. More than 5000 compounds whose inibition activity towards a target protein was used to train the model. In an effort to discover more drugs against Alzheimer, insilco characterization of compounds for possible activity is cruicial. It saves time and money. Only candidate compounds will be promoted to wet lab experiments. 
+The goal of this project was to train a model that could predict whether a compound would be active against a target protein. The model was trained using the inhibition activity of more than 5,000 compounds towards a target protein. In an effort to discover more drugs for Alzheimer's disease, in silico characterization of compounds for possible activity is crucial. This approach saves time and money. Only the most promising compounds will advance to wet lab experiments. 
